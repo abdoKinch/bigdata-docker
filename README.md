@@ -8,7 +8,7 @@ This repository contains [Apache Zeppelin 0.9.0](https://zeppelin.apache.org/) d
 
 
 # Hive 
-# Hive Docker
+## Hive Docker
 ## Hive Interpreter for Apache Zeppelin
 Hive Interpreter has been deprecated and merged into JDBC Interpreter. 
 You can use Hive Interpreter by using JDBC Interpreter with same functionality. 
@@ -105,5 +105,5 @@ See the example below of settings and dependencies.
 </table>
 
 # Spark 
-# Spark Docker
+## Spark Docker
 ## Connect Hive Interpreter With Spark in Apache Zeppelin
